@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "networks";
 
 /**
  * Project list
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "foodie-assessment",
+    description: "Food recipies static web page using HTML CSS",
+    url: "https://github.com/Kavyanjali02/food-review-assessment",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "HomelyHub Website",
+    description: "Homelyhub website (Property website)using MERN Stack",
+    url: " https://youtu.be/bHS8CCXN2ic?si=D8_wXOX__dfOmsek",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Svelte quick notes",
+    description: "svelte quick notes as part of Craftlab Internship",
+    url: "https://github.com/hannansatopay/sip24-svelte-quick-notes/pull/514",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Instagram Clone (Basic-Beginner) ",
+    description: "Instagram Clone using Svelte and Tailwind CSS as part of Craftlab Internship ",
+    url: "https://github.com/hannansatopay/sip24-sveltekit-fundamentals/pull/337",
   },
 ];
 
